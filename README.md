@@ -17,4 +17,4 @@ For my solution, I realised that the password was likely stored as plaintext in 
 
 Of course, you wouldn't do this by hand, so I wrote a handy little python program to do this for me, which worked out nicely. One of the biggest difficulties was dealing with excessive escape characters that would get escaped first in python and then again after posting through curl.
 
-After letting the program run for about a minute, we have the next level's password, `WaIHEacj63wnNIBROHeqi3p9t0m5nhmh`!
+[image](https://i.imgur.com/1p7kE73.png)!
