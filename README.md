@@ -18,3 +18,5 @@ For my solution, I realised that the password was likely stored as plaintext in 
 Of course, you wouldn't do this by hand, so I wrote a handy little python program to do this for me, which worked out nicely. One of the biggest difficulties was dealing with excessive escape characters that would get escaped first in python and then again after posting through curl, but that's why I've included the .py file on this page. So no one. ever. has to do that again.
 
 ![](https://i.imgur.com/1p7kE73.png))
+
+(WaIHEacj63wnNIBROHeqi3p9t0m5nhmh in plaintext for copying)
