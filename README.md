@@ -19,4 +19,4 @@ Of course, you wouldn't do this by hand, so I wrote a handy little python progra
 
 ![](https://i.imgur.com/1p7kE73.png))
 
-(WaIHEacj63wnNIBROHeqi3p9t0m5nhmh in plaintext for copying)
+(`WaIHEacj63wnNIBROHeqi3p9t0m5nhmh` in plaintext for copying)
